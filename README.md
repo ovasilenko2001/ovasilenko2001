@@ -1,3 +1,3 @@
 fruits = ["яблоко", "банан", "вишня"]
-for fruit in fruits:36
+for fruit in fruits:37
   print(fruit)
